@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 🔭  I’m currently working on The Scheduling Company
 - 🌱 I’m currently learning GraphQL
 - 🤔  I’m looking for help with calendrical equations
