@@ -1,4 +1,4 @@
--  I’m currently working on Cursuum (cursuum.com)
+-  I’m currently working on Cursuum
 -  I’m currently learning GraphQL with Prisma
 -  I’m looking for help with calendrical equations
 -  Ask me about time management
