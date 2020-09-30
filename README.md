@@ -1,5 +1,5 @@
 -  I'm working on the projects Shaolin and Cursuum 📅
--  I’m learning Apollo with GraphQL
+-  I’m learning Apollo and GraphQL
 -  I’m looking for help with calendrical equations
 -  Ask me about scheduling
 -  How to reach me: charles.gaudreau.jackson.creation@gmail.com
