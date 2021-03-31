@@ -1,5 +1,5 @@
 -  I work on a project called Cursuum  📅
--  I like to use GraphQL, Apollo, React, NextJS
+-  I like to use GraphQL, Apollo, React, NextJS, NodeJS
 -  I’m looking for help with calendrical equations
 -  Ask or talk to me about scheduling
 -  How to reach me: contact@charlesgaudreaujackson.com
