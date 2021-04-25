@@ -1,6 +1,6 @@
 -  I'm working on a project: www.cursuum.com (coming soon) 📅
 -  I love using GraphQL, Apollo, React, NextJS, NodeJS, Gatsby, Styled Components
 -  I’m looking for help with calendrical equations
--  Ask or talk to me about scheduling 
--  How to reach me: contact@charlesgaudreaujackson.com
+-  Ask or talk to me about scheduling at charles@cursuum.com
+-  For general inquiry: contact@charlesgaudreaujackson.com
 -  My website: https://www.charlesgaudreaujackson.com
