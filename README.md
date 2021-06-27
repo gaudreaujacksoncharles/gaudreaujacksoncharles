@@ -2,6 +2,6 @@
 - I love to code while using GraphQL, Apollo, React, NextJS, NodeJS, Gatsby, Styled Components
 - I love designing with Sketch!
 - I’m looking for help with calendrical equations/dealing with time equations
-- Ask / talk to me about scheduling at charles@cursuum.com
+- Ask or talk to me about scheduling at charles@cursuum.com
 - For general inquiry: contact@charlesgaudreaujackson.com
 - My website: https://www.charlesgaudreaujackson.com
