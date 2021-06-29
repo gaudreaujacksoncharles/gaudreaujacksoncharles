@@ -1,5 +1,5 @@
 - I'm working on a project: www.cursuum.com (coming soon) 📅
-- I love to code while using GraphQL, Apollo, React, NextJS, NodeJS, Gatsby, Styled Components
+- I love to code using GraphQL, Apollo, React, NextJS, NodeJS, Gatsby, Styled Components
 - I love designing and prototyping with Sketch!
 - I’m looking for help with calendrical equations/dealing with time equations
 - Ask or talk to me about scheduling at charles@cursuum.com
