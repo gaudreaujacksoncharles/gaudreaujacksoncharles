@@ -1,6 +1,6 @@
 - I'm working on a project: www.cursuum.com (coming soon) 📅
 - I love to code using GraphQL, Apollo, React, Prisma, NextJS, NodeJS, Gatsby, Styled Components, KeystoneJS
-- I love designing and prototyping with Sketch! I also like to collaborate on designs using Figma.
+- I love designing and prototyping with Sketch! 
 - I’m looking for help with calendrical equations/dealing with time equations
 - Ask or talk to me about scheduling at charles@cursuum.com 
 - For general inquiry: contact@charlesgaudreaujackson.com
