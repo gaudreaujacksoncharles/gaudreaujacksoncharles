@@ -4,5 +4,3 @@
 - I’m looking for help with calendrical equations/dealing with time equations
 - Ask or talk to me at charles@cursuum.com 
 - My website: https://www.charlesgaudreaujackson.com
-
-:)
